@@ -1,4 +1,11 @@
 #added to github
+
+
+![alt text](github-removebg-preview.png)
+ 
+
+
+
 #  Data nerds jobs Salary Analysis 
 ## Overview/Introduction
 
