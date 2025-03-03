@@ -103,6 +103,7 @@ Learning about **Google Drive and  GitHub** for documentation.
 
 - Salary values are approximate and may vary based on location, experience, and industry demand.
 - Exchange rate fluctuations can impact the converted Euro salaries.
+- **for files that are large that can't be previewed on Github you can download and view locally on your PC.**
 
 For any updates or modifications, please ensure accurate exchange rate adjustments and job market validations.
 
