@@ -1,10 +1,6 @@
-#added to github
+#added to github  
 
-
-![alt text](github-removebg-preview.png)
- 
-
-
+![alt text](image.png)
 
 #  Data nerds jobs Salary Analysis 
 ## Overview/Introduction
