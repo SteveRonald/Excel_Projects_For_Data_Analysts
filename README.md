@@ -1,6 +1,4 @@
-#added to github  
-
-![alt text](image.png)
+Contributors to the project
 
 #  Data nerds jobs Salary Analysis 
 ## Overview/Introduction
