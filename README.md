@@ -1,5 +1,5 @@
-Contributors to the project
-[Steve Ronald](https://github.com/SteveRonald)
+Contributors to the project  
+1. [Steve Ronald](https://github.com/SteveRonald)
 #  Data nerds jobs Salary Analysis 
 ## Overview/Introduction
 
